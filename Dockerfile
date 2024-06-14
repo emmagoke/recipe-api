@@ -1,4 +1,4 @@
-FROM python:3.10-alpine3.20
+FROM python:3.10-alpine3.13
 LABEL maintainer="emmagoke"
 
 ENV PYTHONUBUFFERED 1
